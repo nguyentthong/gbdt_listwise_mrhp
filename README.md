@@ -30,7 +30,7 @@ For the Multimodal Review Helpfulness Prediction (MRHP) task, we introduce a nov
 - prefetch_generator
 
 ## How to Run
-1. To prepare the multimodal datasets of Lazada-MRHP and Amazon-MRHP, we follow the guideline provided here.
+1. To prepare the multimodal datasets of Lazada-MRHP and Amazon-MRHP, we follow the guideline provided [here](https://github.com/jhliu17/MCR/blob/master/scripts/README.md).
 2. Run the following command to execute the training procedure:
 ```
 bash ./scripts/{dataset}/train_{segment}.sh
