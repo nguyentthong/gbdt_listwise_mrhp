@@ -24,7 +24,7 @@ For the Multimodal Review Helpfulness Prediction (MRHP) task, we introduce a nov
 - coverage
 - codecov
 - pytest
-- pytest-cov>=2.7.1
+- pytest-cov
 - cytoolz
 - transformers
 - prefetch_generator
